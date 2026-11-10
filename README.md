@@ -2,7 +2,7 @@
 
 A spam classifier for SMS messages built with TF-IDF features and classical ML models, deployed as a Streamlit web app.
 
-**Live demo:** _add your Streamlit link here after deployment_
+**Live demo:** https://sms-spam-det.streamlit.app/
 
 ## Overview
 
